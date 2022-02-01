@@ -1,0 +1,13 @@
+{
+    "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "AzureB2cSettings": {
+      "TenantId": "afpcrecerb2cdev.onmicrosoft.com",
+      "ApplicationId": "7caf059b673b4ab29d988708e4c7e698",
+      "ClientSecret": "Ncc7Q~HR.Ih05beZPmMO80_eYb.~DRlMR0hMq",
+      "B2CEXTENSIONAPPCLIENT_ID": "4bbe8ddf80d744d2b9d86e462a25b26a"
+    }
+  }
+}
